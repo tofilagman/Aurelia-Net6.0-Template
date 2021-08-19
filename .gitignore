@@ -1,0 +1,8 @@
+/**/.vs
+/**/bin
+/**/obj
+/**/AutoGen
+/**/Logs
+/**/node_modules
+/**/Reports/data
+/**/JSReport

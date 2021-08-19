@@ -1,0 +1,1 @@
+# Aurelia-Net6.0-Template
